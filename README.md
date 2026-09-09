@@ -344,7 +344,7 @@ Business Process Automation
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/amirsaleem1985/amirsaleem1985/output/github-snake-dark.svg"
+    src="https://raw.githubusercontent.com/amirsaleem1985/amirsaleem1985/snake/github-snake-dark.svg"
     width="100%"
     alt="GitHub Contribution Snake"
   />
