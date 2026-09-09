@@ -341,7 +341,9 @@ Business Process Automation
 
 ---
 
-## 🐍 Contribution Snake
+---
+
+## 🐍 Contribution Graph
 
 <p align="center">
   <img
@@ -350,6 +352,8 @@ Business Process Automation
     alt="GitHub Contribution Snake"
   />
 </p>
+
+---
 
 <p align="center">
   <img
