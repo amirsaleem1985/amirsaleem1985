@@ -338,10 +338,19 @@ Business Process Automation
     alt="GitHub Activity Graph"
   />
 </p>
-
 ---
 
----
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/amirsaleem1985/amirsaleem1985/output/github-snake-dark.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p>
+
+
 
 
 
