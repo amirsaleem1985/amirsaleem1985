@@ -13,9 +13,9 @@
   <a href="mailto:amirsaleem85@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" width="45" alt="Email"/>
   </a>
-  <a href="https://github.com/amirsaleem1985" target="_blank">
+<!--  <a href="https://github.com/amirsaleem1985" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
-  </a>
+  </a> -->
 </p>
 
 ---
