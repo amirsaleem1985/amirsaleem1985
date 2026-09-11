@@ -42,7 +42,7 @@ Strong background in:
 * Application Support & Optimization
 
 ---
-
+<!--
 ## 🚀 What I Do
 
 <table>
@@ -79,7 +79,7 @@ Strong background in:
 </table>
 
 ---
-
+-->
 ## 🛠️ Core Expertise
 
 ### 👨‍💼 Leadership & Management
@@ -277,7 +277,7 @@ Scalable transportation and logistics applications supporting high-volume nation
 </table>
 
 ---
-
+<!--
 ## 🏆 Career Highlights
 
 * **15+ years** of experience in software development, IT delivery and enterprise applications.
@@ -292,7 +292,8 @@ Scalable transportation and logistics applications supporting high-volume nation
 * Received multiple **excellence awards** across professional organizations.
 
 ---
-
+-->
+<!--
 ## 🎯 Current Focus
 
 ```text
@@ -312,16 +313,16 @@ Business Process Automation
 ```
 
 ---
-
+-->
 ## 🎓 Professional Certifications & Training
 
 * **PMI-ACP Training** — AUC Training Center
 * **Oracle WMS / E-Business Suite** — Professional Training
 * **Scrum Fundamentals**
-* **Microsoft SharePoint 2010**
+
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <p align="center">
@@ -355,7 +356,7 @@ Business Process Automation
 
 
 ---
-
+-->
 ## 📈 GitHub Profile
 
 <p align="center">
